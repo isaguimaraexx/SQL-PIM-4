@@ -1,12 +1,5 @@
 -- =====================================================================
 --  DELIVRA - Plataforma de Delivery
---  Etapa 7 - Projeto do Banco de Dados (Programação de Banco de Dados)
---  Script completo: estrutura, índices, funções, procedures, triggers,
---  views, usuário de acesso da API e dados iniciais.
---
---  SGBD alvo : MySQL 8.0+  (compatível com MariaDB 10.6+)
---  Charset   : utf8mb4 / utf8mb4_unicode_ci
---  Execução  : mysql -u root -p < delivra.sql
 -- =====================================================================
 
 DROP DATABASE IF EXISTS delivra;
